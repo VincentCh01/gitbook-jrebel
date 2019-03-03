@@ -12,3 +12,7 @@ https://vincentcc.gitbook.io/jrebel
 ## 本书文档
 
 https://github.com/VincentCh01/gitbook-jrebel.git
+
+## 本书代码
+
+https://github.com/VincentCh01/gitbook-jrebel.git
