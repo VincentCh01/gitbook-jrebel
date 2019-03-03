@@ -1,0 +1,18 @@
+{
+	"title": "gitbook-jrebel",
+	"author": "Vincent",
+	"language": "zh-hans",
+	"styles": {
+
+	},
+	"plugins": [
+		"expandable-chapters-small",
+		"popup",
+		"disqus"
+	],
+	"pluginsConfig": {
+		"disqus": {
+			"shortName": "introducetogitbook"
+		}
+	}
+}
