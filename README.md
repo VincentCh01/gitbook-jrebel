@@ -7,8 +7,8 @@ Jrebel 功能描述
 
 ## 在线文档
 
-https://vincentcc.gitbooks.io/jrebel
+https://vincentcc.gitbook.io/jrebel
 
 ## 本书文档
 
-https://github.com/zl4881663/gitbook-jrebel.git
+https://github.com/VincentCh01/gitbook-jrebel.git
