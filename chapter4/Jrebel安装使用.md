@@ -10,4 +10,5 @@
   [演示链接](https://blog.csdn.net/stpice/article/details/80114685)
   ```
   java -jar jrebel.jar -set-remote-password <NewPassword>
+  java "-agentpath:[JRebel root folder]/lib/libjrebel64.so" -Drebel.remoting_plugin=true -jar myapp-boot.jar
   ```
