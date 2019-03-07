@@ -8,3 +8,6 @@
 
 2. Jrebel 的远程热部署  
   [演示链接](https://blog.csdn.net/stpice/article/details/80114685)
+  ```
+  java -jar jrebel.jar -set-remote-password <NewPassword>
+  ```
